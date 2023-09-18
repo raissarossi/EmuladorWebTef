@@ -1,0 +1,6 @@
+{
+    "DATABASE": "C:\\Users\\rro6ca\\Desktop\\EmuladorTeste\\copia-exemplo.xlsx",
+    "PASTA_MODELO": "\\\\bosch.com\\dfsrb\\DfsBR\\LOC\\Ca1\\PM\\TEF\\TEF2\\Inter_Setor\\TERCEIRIZAÇÃO_USINAGEM\\TEF22_ANO_ATUAL\\MODELOS",
+    "PASTA_DESTINO": "C:\\Users\\rro6ca\\Desktop\\EmuladorTeste\\salvos"
+}
+
